@@ -2,7 +2,7 @@
 This repository contains a curated set of materials for learning and practicing SQL and T-SQL, particularly in the context of Microsoft SQL Server.
 
 
-## Contents
+## Content
 
 - `sql-tsql-cheat-sheet.sql` — A comprehensive summary of essential SQL/T-SQL commands and features.
 - `HackerRankExs.sql` — A set of solved SQL problems from HackerRank.
