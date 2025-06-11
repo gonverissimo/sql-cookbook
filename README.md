@@ -24,7 +24,6 @@ This repository contains a curated set of materials for learning and practicing 
 - Microsoft SQL Server installed (local or remote).
 - AdventureWorks sample database (used to solve the queries in the `tsql-queries-exercises` folder).
 - Basic knowledge of relational databases.
-- Basic knowledge of relational databases.
 
 
 ## Useful Resources
