@@ -13,7 +13,7 @@ This repository contains a curated set of materials for learning and practicing 
 
 ## How to Use
 
-1. Open the `.sql` files in SQL Server Management Studio (SSMS) or Azure Data Studio.
+1. Open the `.sql` files in SQL Server Management Studio (SSMS).
 2. Execute the relevant sections to learn and practice concepts.
 3. Use the cheat sheet for practical, real-world query examples.
 4. Many scripts assume the use of the AdventureWorks sample database.
