@@ -22,7 +22,8 @@ This repository contains a curated set of materials for learning and practicing 
 ## Prerequisites
 
 - Microsoft SQL Server installed (local or remote).
-- AdventureWorks database (downloadable from Microsoft).
+- AdventureWorks sample database (used to solve the queries in the `tsql-queries-exercises` folder).
+- Basic knowledge of relational databases.
 - Basic knowledge of relational databases.
 
 
