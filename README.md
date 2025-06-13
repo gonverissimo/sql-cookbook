@@ -10,7 +10,7 @@ This repository contains a curated set of materials for learning and practicing 
 - `Fundamentals-of-Data-Engineering.pdf` — A reference document covering key data engineering principles.
 - `tsql-queries-exercises` A collection of practice SQL queries developed using the AdventureWorks sample database. This repository is intended to strengthen Transact-SQL skills through hands-on exercises and scenarios involving real-world business data.
 - `sales-analysis-project` A comprehensive sales performance dashboard built with Power BI. This project demonstrates the end-to-end process of designing an interactive data visualization solution, including data modeling, SQL-based analysis, and visual representation of sales trends, revenue breakdowns, customer insights and stock forecasting.
-
+- `data-warehouse-analytics-project` A project that explores business performance through sales data, customer behaviors and product insights using T-SQL.
 
 ## How to Use
 
