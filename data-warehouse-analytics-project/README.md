@@ -6,8 +6,8 @@ The primary goal of this project was to **enhance my skills as a Data Analyst** 
 The focus was on building robust SQL queries by leveraging Common Table Expressions (CTEs) for clean logic structuring, applying window functions for advanced row-wise calculations, performing meaningful aggregations and conducting insightful customer and product segmentation.
 
 This hands-on project allowed me to:
-- Practice **SQL data exploration**, transformation, and KPI calculation.
-- Analyze large-scale transactional data to extract insights.
+- Practice **SQL data exploration** and transformation;
+- Analyze large-scale transactional data to extract insights;
 - Simulate a real-world data analytics workflow, from data ingestion to reporting logic.
 
 ## Data Import
