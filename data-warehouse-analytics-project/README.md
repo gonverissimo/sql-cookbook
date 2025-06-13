@@ -1,4 +1,4 @@
-# DataWarehouse Analytics Project
+# Data Warehouse Analytics Project
 
 ## This **Data Analytics** project explores business performance through sales data, customer behaviors and product insights using **T-SQL**. It simulates how a data analyst would extract and analyze information in a corporate environment using structured, warehouse-ready data.
 
